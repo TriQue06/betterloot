@@ -8,8 +8,9 @@
 		"TriQue"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/TriQue06/betterloot",
+		"issues": "https://github.com/TriQue06/betterloot/issues",
+		"repo": "https://github.com/TriQue06/betterloot"
 	},
 	"license": "MIT",
 	"icon": "assets/betterloot/icon.png",
